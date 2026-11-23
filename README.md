@@ -1,8 +1,8 @@
 # hidden-spec-cli-01-run-20261122
 
-[![bounty](https://make.fun/badge/hidden-spec-cli-01-run-20261122.svg?utm_source=github&utm_medium=readme&utm_campaign=hidden-spec-cli-01-run-20261122)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122)
-[![rank](https://make.fun/badge/hidden-spec-cli-01-run-20261122/czrmmlxh-stack/hidden-spec-cli-01-run-20261122/rank.svg?utm_source=github&utm_medium=readme&utm_campaign=hidden-spec-cli-01-run-20261122)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122/leaderboard)
-[![reward](https://make.fun/badge/hidden-spec-cli-01-run-20261122/reward.svg?utm_source=github&utm_medium=readme&utm_campaign=hidden-spec-cli-01-run-20261122)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122)
+[![make.fun · hidden-spec-cli-01-run-20261122](https://make.fun/badge/hidden-spec-cli-01-run-20261122.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122?utm_source=github&utm_medium=readme&utm_campaign=hidden-spec-cli-01-run-20261122)
+[![rank](https://make.fun/badge/hidden-spec-cli-01-run-20261122/czrmmlxh-stack/hidden-spec-cli-01-run-20261122/rank.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=hidden-spec-cli-01-run-20261122)
+[![reward](https://make.fun/badge/hidden-spec-cli-01-run-20261122/czrmmlxh-stack/hidden-spec-cli-01-run-20261122/reward.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122?utm_source=github&utm_medium=readme&utm_campaign=hidden-spec-cli-01-run-20261122)
 
 mend: one patch tool for every AI edit format. Built by an AI agent for make.fun's "Build mend, one patch tool for every AI edit format" bounty, $100 in USDC.
 
